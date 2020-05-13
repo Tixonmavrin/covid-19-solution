@@ -1,0 +1,596 @@
+,Province/State,Date,Deaths_pred,Cases_pred
+92,Altayskiy kray,2020-04-23,0,152
+93,Altayskiy kray,2020-04-24,0,169
+94,Altayskiy kray,2020-04-25,0,188
+95,Altayskiy kray,2020-04-26,0,205
+96,Altayskiy kray,2020-04-27,0,226
+97,Altayskiy kray,2020-04-28,0,248
+98,Altayskiy kray,2020-04-29,0,261
+191,Amursk oblast,2020-04-23,0,24
+192,Amursk oblast,2020-04-24,0,25
+193,Amursk oblast,2020-04-25,0,26
+194,Amursk oblast,2020-04-26,0,28
+195,Amursk oblast,2020-04-27,0,29
+196,Amursk oblast,2020-04-28,0,31
+197,Amursk oblast,2020-04-29,0,32
+290,Arkhangelsk oblast,2020-04-23,1,132
+291,Arkhangelsk oblast,2020-04-24,1,147
+292,Arkhangelsk oblast,2020-04-25,1,161
+293,Arkhangelsk oblast,2020-04-26,1,176
+294,Arkhangelsk oblast,2020-04-27,1,184
+295,Arkhangelsk oblast,2020-04-28,1,193
+296,Arkhangelsk oblast,2020-04-29,1,203
+389,Astrahan oblast,2020-04-23,3,165
+390,Astrahan oblast,2020-04-24,3,184
+391,Astrahan oblast,2020-04-25,3,205
+392,Astrahan oblast,2020-04-26,3,219
+393,Astrahan oblast,2020-04-27,3,228
+394,Astrahan oblast,2020-04-28,3,237
+395,Astrahan oblast,2020-04-29,3,248
+488,Belgorod oblast,2020-04-23,2,162
+489,Belgorod oblast,2020-04-24,2,181
+490,Belgorod oblast,2020-04-25,2,199
+491,Belgorod oblast,2020-04-26,2,214
+492,Belgorod oblast,2020-04-27,2,228
+493,Belgorod oblast,2020-04-28,2,241
+494,Belgorod oblast,2020-04-29,2,253
+587,Briansk oblast,2020-04-23,1,428
+588,Briansk oblast,2020-04-24,1,457
+589,Briansk oblast,2020-04-25,1,492
+590,Briansk oblast,2020-04-26,1,527
+591,Briansk oblast,2020-04-27,1,563
+592,Briansk oblast,2020-04-28,1,596
+593,Briansk oblast,2020-04-29,1,626
+686,Chechen republic,2020-04-23,6,350
+687,Chechen republic,2020-04-24,6,385
+688,Chechen republic,2020-04-25,6,428
+689,Chechen republic,2020-04-26,6,468
+690,Chechen republic,2020-04-27,6,503
+691,Chechen republic,2020-04-28,6,536
+692,Chechen republic,2020-04-29,6,571
+785,Cheliabinsk oblast,2020-04-23,0,111
+786,Cheliabinsk oblast,2020-04-24,0,121
+787,Cheliabinsk oblast,2020-04-25,0,131
+788,Cheliabinsk oblast,2020-04-26,0,143
+789,Cheliabinsk oblast,2020-04-27,0,154
+790,Cheliabinsk oblast,2020-04-28,0,167
+791,Cheliabinsk oblast,2020-04-29,0,179
+884,Chukotskiy autonomous oblast,2020-04-23,0,7
+885,Chukotskiy autonomous oblast,2020-04-24,0,7
+886,Chukotskiy autonomous oblast,2020-04-25,0,7
+887,Chukotskiy autonomous oblast,2020-04-26,0,7
+888,Chukotskiy autonomous oblast,2020-04-27,0,7
+889,Chukotskiy autonomous oblast,2020-04-28,0,7
+890,Chukotskiy autonomous oblast,2020-04-29,0,7
+983,Habarovskiy kray,2020-04-23,5,310
+984,Habarovskiy kray,2020-04-24,5,344
+985,Habarovskiy kray,2020-04-25,5,386
+986,Habarovskiy kray,2020-04-26,5,420
+987,Habarovskiy kray,2020-04-27,5,462
+988,Habarovskiy kray,2020-04-28,5,493
+989,Habarovskiy kray,2020-04-29,5,530
+1082,Hanty-Mansiyskiy AO,2020-04-23,1,216
+1083,Hanty-Mansiyskiy AO,2020-04-24,1,226
+1084,Hanty-Mansiyskiy AO,2020-04-25,1,235
+1085,Hanty-Mansiyskiy AO,2020-04-26,1,243
+1086,Hanty-Mansiyskiy AO,2020-04-27,1,253
+1087,Hanty-Mansiyskiy AO,2020-04-28,1,263
+1088,Hanty-Mansiyskiy AO,2020-04-29,1,273
+1181,Ingushetia republic,2020-04-23,12,438
+1182,Ingushetia republic,2020-04-24,12,476
+1183,Ingushetia republic,2020-04-25,13,511
+1184,Ingushetia republic,2020-04-26,13,552
+1185,Ingushetia republic,2020-04-27,14,587
+1186,Ingushetia republic,2020-04-28,14,624
+1187,Ingushetia republic,2020-04-29,14,659
+1280,Irkutsk oblast,2020-04-23,3,81
+1281,Irkutsk oblast,2020-04-24,3,88
+1282,Irkutsk oblast,2020-04-25,3,94
+1283,Irkutsk oblast,2020-04-26,3,100
+1284,Irkutsk oblast,2020-04-27,3,106
+1285,Irkutsk oblast,2020-04-28,3,111
+1286,Irkutsk oblast,2020-04-29,3,118
+1379,Ivanovo oblast,2020-04-23,2,234
+1380,Ivanovo oblast,2020-04-24,2,245
+1381,Ivanovo oblast,2020-04-25,2,254
+1382,Ivanovo oblast,2020-04-26,2,262
+1383,Ivanovo oblast,2020-04-27,2,269
+1384,Ivanovo oblast,2020-04-28,2,275
+1385,Ivanovo oblast,2020-04-29,2,281
+1478,Jewish Autonomous oblast,2020-04-23,0,57
+1479,Jewish Autonomous oblast,2020-04-24,0,62
+1480,Jewish Autonomous oblast,2020-04-25,0,68
+1481,Jewish Autonomous oblast,2020-04-26,0,74
+1482,Jewish Autonomous oblast,2020-04-27,0,81
+1483,Jewish Autonomous oblast,2020-04-28,0,89
+1484,Jewish Autonomous oblast,2020-04-29,0,97
+1577,Kaliningrad oblast,2020-04-23,1,173
+1578,Kaliningrad oblast,2020-04-24,1,183
+1579,Kaliningrad oblast,2020-04-25,1,193
+1580,Kaliningrad oblast,2020-04-26,1,203
+1581,Kaliningrad oblast,2020-04-27,1,212
+1582,Kaliningrad oblast,2020-04-28,1,219
+1583,Kaliningrad oblast,2020-04-29,1,225
+1676,Kaluga oblast,2020-04-23,9,373
+1677,Kaluga oblast,2020-04-24,10,409
+1678,Kaluga oblast,2020-04-25,10,452
+1679,Kaluga oblast,2020-04-26,10,499
+1680,Kaluga oblast,2020-04-27,10,550
+1681,Kaluga oblast,2020-04-28,11,612
+1682,Kaluga oblast,2020-04-29,11,666
+1775,Kamchatskiy kray,2020-04-23,0,72
+1776,Kamchatskiy kray,2020-04-24,0,81
+1777,Kamchatskiy kray,2020-04-25,0,91
+1778,Kamchatskiy kray,2020-04-26,0,102
+1779,Kamchatskiy kray,2020-04-27,0,115
+1780,Kamchatskiy kray,2020-04-28,0,129
+1781,Kamchatskiy kray,2020-04-29,0,145
+1874,Kemerovo oblast,2020-04-23,1,64
+1875,Kemerovo oblast,2020-04-24,1,70
+1876,Kemerovo oblast,2020-04-25,1,76
+1877,Kemerovo oblast,2020-04-26,1,82
+1878,Kemerovo oblast,2020-04-27,1,88
+1879,Kemerovo oblast,2020-04-28,1,94
+1880,Kemerovo oblast,2020-04-29,1,101
+1973,Kirov oblast,2020-04-23,3,240
+1974,Kirov oblast,2020-04-24,3,267
+1975,Kirov oblast,2020-04-25,3,295
+1976,Kirov oblast,2020-04-26,3,321
+1977,Kirov oblast,2020-04-27,3,346
+1978,Kirov oblast,2020-04-28,3,364
+1979,Kirov oblast,2020-04-29,3,383
+2072,Komi republic,2020-04-23,4,541
+2073,Komi republic,2020-04-24,4,552
+2074,Komi republic,2020-04-25,4,564
+2075,Komi republic,2020-04-26,4,573
+2076,Komi republic,2020-04-27,4,584
+2077,Komi republic,2020-04-28,4,597
+2078,Komi republic,2020-04-29,4,604
+2171,Kostroma oblast,2020-04-23,2,99
+2172,Kostroma oblast,2020-04-24,2,110
+2173,Kostroma oblast,2020-04-25,2,122
+2174,Kostroma oblast,2020-04-26,2,135
+2175,Kostroma oblast,2020-04-27,2,149
+2176,Kostroma oblast,2020-04-28,2,163
+2177,Kostroma oblast,2020-04-29,2,173
+2270,Krasnodarskiy kray,2020-04-23,11,509
+2271,Krasnodarskiy kray,2020-04-24,11,535
+2272,Krasnodarskiy kray,2020-04-25,11,565
+2273,Krasnodarskiy kray,2020-04-26,11,594
+2274,Krasnodarskiy kray,2020-04-27,11,618
+2275,Krasnodarskiy kray,2020-04-28,11,634
+2276,Krasnodarskiy kray,2020-04-29,11,647
+2369,Krasnoyarskiy kray,2020-04-23,2,427
+2370,Krasnoyarskiy kray,2020-04-24,2,467
+2371,Krasnoyarskiy kray,2020-04-25,2,503
+2372,Krasnoyarskiy kray,2020-04-26,2,534
+2373,Krasnoyarskiy kray,2020-04-27,2,565
+2374,Krasnoyarskiy kray,2020-04-28,2,599
+2375,Krasnoyarskiy kray,2020-04-29,2,628
+2468,Kurgan oblast,2020-04-23,0,16
+2469,Kurgan oblast,2020-04-24,0,17
+2470,Kurgan oblast,2020-04-25,0,18
+2471,Kurgan oblast,2020-04-26,0,19
+2472,Kurgan oblast,2020-04-27,0,20
+2473,Kurgan oblast,2020-04-28,0,21
+2474,Kurgan oblast,2020-04-29,0,22
+2567,Kursk oblast,2020-04-23,3,310
+2568,Kursk oblast,2020-04-24,3,346
+2569,Kursk oblast,2020-04-25,3,382
+2570,Kursk oblast,2020-04-26,3,412
+2571,Kursk oblast,2020-04-27,3,440
+2572,Kursk oblast,2020-04-28,3,460
+2573,Kursk oblast,2020-04-29,3,482
+2666,Leningradskaya oblast,2020-04-23,0,564
+2667,Leningradskaya oblast,2020-04-24,0,590
+2668,Leningradskaya oblast,2020-04-25,0,625
+2669,Leningradskaya oblast,2020-04-26,0,659
+2670,Leningradskaya oblast,2020-04-27,0,694
+2671,Leningradskaya oblast,2020-04-28,0,727
+2672,Leningradskaya oblast,2020-04-29,0,756
+2765,Lipetsk oblast,2020-04-23,2,228
+2766,Lipetsk oblast,2020-04-24,2,242
+2767,Lipetsk oblast,2020-04-25,2,256
+2768,Lipetsk oblast,2020-04-26,2,268
+2769,Lipetsk oblast,2020-04-27,2,277
+2770,Lipetsk oblast,2020-04-28,2,286
+2771,Lipetsk oblast,2020-04-29,2,294
+2864,Magadan oblast,2020-04-23,0,72
+2865,Magadan oblast,2020-04-24,0,79
+2866,Magadan oblast,2020-04-25,0,88
+2867,Magadan oblast,2020-04-26,0,93
+2868,Magadan oblast,2020-04-27,0,97
+2869,Magadan oblast,2020-04-28,0,102
+2870,Magadan oblast,2020-04-29,0,107
+2963,Moscow,2020-04-23,301,34613
+2964,Moscow,2020-04-24,351,37283
+2965,Moscow,2020-04-25,409,39098
+2966,Moscow,2020-04-26,450,40180
+2967,Moscow,2020-04-27,499,42615
+2968,Moscow,2020-04-28,591,44727
+2969,Moscow,2020-04-29,684,45334
+3062,Moscow oblast,2020-04-23,58,6895
+3063,Moscow oblast,2020-04-24,61,7634
+3064,Moscow oblast,2020-04-25,65,8574
+3065,Moscow oblast,2020-04-26,71,9749
+3066,Moscow oblast,2020-04-27,78,10955
+3067,Moscow oblast,2020-04-28,85,11948
+3068,Moscow oblast,2020-04-29,94,13225
+3161,Murmansk oblast,2020-04-23,3,540
+3162,Murmansk oblast,2020-04-24,3,576
+3163,Murmansk oblast,2020-04-25,3,609
+3164,Murmansk oblast,2020-04-26,3,645
+3165,Murmansk oblast,2020-04-27,3,682
+3166,Murmansk oblast,2020-04-28,3,716
+3167,Murmansk oblast,2020-04-29,3,747
+3260,Nenetskiy autonomous oblast,2020-04-23,0,1
+3261,Nenetskiy autonomous oblast,2020-04-24,0,1
+3262,Nenetskiy autonomous oblast,2020-04-25,0,1
+3263,Nenetskiy autonomous oblast,2020-04-26,0,1
+3264,Nenetskiy autonomous oblast,2020-04-27,0,1
+3265,Nenetskiy autonomous oblast,2020-04-28,0,1
+3266,Nenetskiy autonomous oblast,2020-04-29,0,1
+3359,Nizhegorodskaya oblast,2020-04-23,6,983
+3360,Nizhegorodskaya oblast,2020-04-24,6,1034
+3361,Nizhegorodskaya oblast,2020-04-25,6,1089
+3362,Nizhegorodskaya oblast,2020-04-26,6,1136
+3363,Nizhegorodskaya oblast,2020-04-27,6,1181
+3364,Nizhegorodskaya oblast,2020-04-28,6,1213
+3365,Nizhegorodskaya oblast,2020-04-29,6,1253
+3458,Novgorod oblast,2020-04-23,1,159
+3459,Novgorod oblast,2020-04-24,1,177
+3460,Novgorod oblast,2020-04-25,1,191
+3461,Novgorod oblast,2020-04-26,1,203
+3462,Novgorod oblast,2020-04-27,1,215
+3463,Novgorod oblast,2020-04-28,1,227
+3464,Novgorod oblast,2020-04-29,1,237
+3557,Novosibirsk oblast,2020-04-23,4,168
+3558,Novosibirsk oblast,2020-04-24,4,186
+3559,Novosibirsk oblast,2020-04-25,4,200
+3560,Novosibirsk oblast,2020-04-26,4,214
+3561,Novosibirsk oblast,2020-04-27,4,227
+3562,Novosibirsk oblast,2020-04-28,4,237
+3563,Novosibirsk oblast,2020-04-29,4,248
+3656,Omsk oblast,2020-04-23,0,48
+3657,Omsk oblast,2020-04-24,0,51
+3658,Omsk oblast,2020-04-25,0,54
+3659,Omsk oblast,2020-04-26,0,58
+3660,Omsk oblast,2020-04-27,0,61
+3661,Omsk oblast,2020-04-28,0,64
+3662,Omsk oblast,2020-04-29,0,68
+3755,Orel oblast,2020-04-23,2,268
+3756,Orel oblast,2020-04-24,2,301
+3757,Orel oblast,2020-04-25,2,336
+3758,Orel oblast,2020-04-26,2,370
+3759,Orel oblast,2020-04-27,2,411
+3760,Orel oblast,2020-04-28,2,445
+3761,Orel oblast,2020-04-29,2,483
+3854,Orenburg oblast,2020-04-23,2,281
+3855,Orenburg oblast,2020-04-24,2,309
+3856,Orenburg oblast,2020-04-25,2,333
+3857,Orenburg oblast,2020-04-26,2,356
+3858,Orenburg oblast,2020-04-27,2,382
+3859,Orenburg oblast,2020-04-28,2,407
+3860,Orenburg oblast,2020-04-29,2,429
+3953,Pensa oblast,2020-04-23,5,208
+3954,Pensa oblast,2020-04-24,5,218
+3955,Pensa oblast,2020-04-25,5,230
+3956,Pensa oblast,2020-04-26,5,239
+3957,Pensa oblast,2020-04-27,5,250
+3958,Pensa oblast,2020-04-28,5,259
+3959,Pensa oblast,2020-04-29,5,267
+4052,Perm oblast,2020-04-23,3,295
+4053,Perm oblast,2020-04-24,3,322
+4054,Perm oblast,2020-04-25,3,349
+4055,Perm oblast,2020-04-26,3,377
+4056,Perm oblast,2020-04-27,3,395
+4057,Perm oblast,2020-04-28,3,413
+4058,Perm oblast,2020-04-29,3,431
+4151,Primorskiy kray,2020-04-23,2,193
+4152,Primorskiy kray,2020-04-24,2,219
+4153,Primorskiy kray,2020-04-25,2,250
+4154,Primorskiy kray,2020-04-26,2,290
+4155,Primorskiy kray,2020-04-27,2,320
+4156,Primorskiy kray,2020-04-28,2,359
+4157,Primorskiy kray,2020-04-29,2,394
+4250,Pskov oblast,2020-04-23,6,68
+4251,Pskov oblast,2020-04-24,6,74
+4252,Pskov oblast,2020-04-25,6,79
+4253,Pskov oblast,2020-04-26,6,85
+4254,Pskov oblast,2020-04-27,6,92
+4255,Pskov oblast,2020-04-28,6,98
+4256,Pskov oblast,2020-04-29,6,103
+4349,Republic of Adygeia,2020-04-23,3,124
+4350,Republic of Adygeia,2020-04-24,3,142
+4351,Republic of Adygeia,2020-04-25,3,152
+4352,Republic of Adygeia,2020-04-26,3,162
+4353,Republic of Adygeia,2020-04-27,3,173
+4354,Republic of Adygeia,2020-04-28,3,183
+4355,Republic of Adygeia,2020-04-29,3,193
+4448,Republic of Altay,2020-04-23,0,8
+4449,Republic of Altay,2020-04-24,0,8
+4450,Republic of Altay,2020-04-25,0,9
+4451,Republic of Altay,2020-04-26,0,10
+4452,Republic of Altay,2020-04-27,0,11
+4453,Republic of Altay,2020-04-28,0,12
+4454,Republic of Altay,2020-04-29,0,13
+4547,Republic of Bashkortostan,2020-04-23,14,433
+4548,Republic of Bashkortostan,2020-04-24,14,471
+4549,Republic of Bashkortostan,2020-04-25,15,508
+4550,Republic of Bashkortostan,2020-04-26,16,543
+4551,Republic of Bashkortostan,2020-04-27,17,579
+4552,Republic of Bashkortostan,2020-04-28,17,612
+4553,Republic of Bashkortostan,2020-04-29,17,647
+4646,Republic of Buriatia,2020-04-23,2,164
+4647,Republic of Buriatia,2020-04-24,2,175
+4648,Republic of Buriatia,2020-04-25,2,185
+4649,Republic of Buriatia,2020-04-26,2,198
+4650,Republic of Buriatia,2020-04-27,2,208
+4651,Republic of Buriatia,2020-04-28,2,218
+4652,Republic of Buriatia,2020-04-29,2,228
+4745,Republic of Chuvashia,2020-04-23,5,289
+4746,Republic of Chuvashia,2020-04-24,5,310
+4747,Republic of Chuvashia,2020-04-25,5,326
+4748,Republic of Chuvashia,2020-04-26,5,341
+4749,Republic of Chuvashia,2020-04-27,5,355
+4750,Republic of Chuvashia,2020-04-28,5,369
+4751,Republic of Chuvashia,2020-04-29,5,383
+4844,Republic of Crimea,2020-04-23,0,47
+4845,Republic of Crimea,2020-04-24,0,48
+4846,Republic of Crimea,2020-04-25,0,49
+4847,Republic of Crimea,2020-04-26,0,50
+4848,Republic of Crimea,2020-04-27,0,51
+4849,Republic of Crimea,2020-04-28,0,52
+4850,Republic of Crimea,2020-04-29,0,53
+4943,Republic of Dagestan,2020-04-23,11,460
+4944,Republic of Dagestan,2020-04-24,11,497
+4945,Republic of Dagestan,2020-04-25,11,538
+4946,Republic of Dagestan,2020-04-26,11,573
+4947,Republic of Dagestan,2020-04-27,11,611
+4948,Republic of Dagestan,2020-04-28,11,643
+4949,Republic of Dagestan,2020-04-29,11,679
+5042,Republic of Hakassia,2020-04-23,0,94
+5043,Republic of Hakassia,2020-04-24,0,106
+5044,Republic of Hakassia,2020-04-25,0,120
+5045,Republic of Hakassia,2020-04-26,0,134
+5046,Republic of Hakassia,2020-04-27,0,143
+5047,Republic of Hakassia,2020-04-28,0,152
+5048,Republic of Hakassia,2020-04-29,0,162
+5141,Republic of Kabardino-Balkaria,2020-04-23,1,215
+5142,Republic of Kabardino-Balkaria,2020-04-24,1,240
+5143,Republic of Kabardino-Balkaria,2020-04-25,1,261
+5144,Republic of Kabardino-Balkaria,2020-04-26,1,278
+5145,Republic of Kabardino-Balkaria,2020-04-27,1,292
+5146,Republic of Kabardino-Balkaria,2020-04-28,1,304
+5147,Republic of Kabardino-Balkaria,2020-04-29,1,315
+5240,Republic of Kalmykia,2020-04-23,3,98
+5241,Republic of Kalmykia,2020-04-24,3,108
+5242,Republic of Kalmykia,2020-04-25,3,118
+5243,Republic of Kalmykia,2020-04-26,3,125
+5244,Republic of Kalmykia,2020-04-27,3,132
+5245,Republic of Kalmykia,2020-04-28,3,140
+5246,Republic of Kalmykia,2020-04-29,3,150
+5339,Republic of Karachaevo-Cherkessia,2020-04-23,0,166
+5340,Republic of Karachaevo-Cherkessia,2020-04-24,0,186
+5341,Republic of Karachaevo-Cherkessia,2020-04-25,0,208
+5342,Republic of Karachaevo-Cherkessia,2020-04-26,0,233
+5343,Republic of Karachaevo-Cherkessia,2020-04-27,0,256
+5344,Republic of Karachaevo-Cherkessia,2020-04-28,0,282
+5345,Republic of Karachaevo-Cherkessia,2020-04-29,0,310
+5438,Republic of Karelia,2020-04-23,0,33
+5439,Republic of Karelia,2020-04-24,0,36
+5440,Republic of Karelia,2020-04-25,0,39
+5441,Republic of Karelia,2020-04-26,0,42
+5442,Republic of Karelia,2020-04-27,0,45
+5443,Republic of Karelia,2020-04-28,0,47
+5444,Republic of Karelia,2020-04-29,0,49
+5537,Republic of Mariy El,2020-04-23,1,355
+5538,Republic of Mariy El,2020-04-24,1,375
+5539,Republic of Mariy El,2020-04-25,1,390
+5540,Republic of Mariy El,2020-04-26,1,407
+5541,Republic of Mariy El,2020-04-27,1,420
+5542,Republic of Mariy El,2020-04-28,1,434
+5543,Republic of Mariy El,2020-04-29,1,446
+5636,Republic of Mordovia,2020-04-23,1,401
+5637,Republic of Mordovia,2020-04-24,1,445
+5638,Republic of Mordovia,2020-04-25,1,489
+5639,Republic of Mordovia,2020-04-26,1,530
+5640,Republic of Mordovia,2020-04-27,1,559
+5641,Republic of Mordovia,2020-04-28,1,596
+5642,Republic of Mordovia,2020-04-29,1,630
+5735,Republic of North Osetia - Alania,2020-04-23,2,246
+5736,Republic of North Osetia - Alania,2020-04-24,2,283
+5737,Republic of North Osetia - Alania,2020-04-25,2,316
+5738,Republic of North Osetia - Alania,2020-04-26,2,353
+5739,Republic of North Osetia - Alania,2020-04-27,2,387
+5740,Republic of North Osetia - Alania,2020-04-28,2,424
+5741,Republic of North Osetia - Alania,2020-04-29,2,460
+5834,Republic of Tatarstan,2020-04-23,0,399
+5835,Republic of Tatarstan,2020-04-24,0,436
+5836,Republic of Tatarstan,2020-04-25,0,479
+5837,Republic of Tatarstan,2020-04-26,0,520
+5838,Republic of Tatarstan,2020-04-27,0,557
+5839,Republic of Tatarstan,2020-04-28,0,607
+5840,Republic of Tatarstan,2020-04-29,0,650
+5933,Republic of Tyva,2020-04-23,0,14
+5934,Republic of Tyva,2020-04-24,0,15
+5935,Republic of Tyva,2020-04-25,0,16
+5936,Republic of Tyva,2020-04-26,0,17
+5937,Republic of Tyva,2020-04-27,0,18
+5938,Republic of Tyva,2020-04-28,0,19
+5939,Republic of Tyva,2020-04-29,0,20
+6032,Republic of Udmurtia,2020-04-23,3,181
+6033,Republic of Udmurtia,2020-04-24,3,213
+6034,Republic of Udmurtia,2020-04-25,3,247
+6035,Republic of Udmurtia,2020-04-26,3,282
+6036,Republic of Udmurtia,2020-04-27,3,319
+6037,Republic of Udmurtia,2020-04-28,3,358
+6038,Republic of Udmurtia,2020-04-29,3,392
+6131,Rostov oblast,2020-04-23,0,452
+6132,Rostov oblast,2020-04-24,0,514
+6133,Rostov oblast,2020-04-25,0,577
+6134,Rostov oblast,2020-04-26,0,641
+6135,Rostov oblast,2020-04-27,0,708
+6136,Rostov oblast,2020-04-28,0,750
+6137,Rostov oblast,2020-04-29,0,798
+6230,Ryazan oblast,2020-04-23,0,439
+6231,Ryazan oblast,2020-04-24,0,482
+6232,Ryazan oblast,2020-04-25,0,522
+6233,Ryazan oblast,2020-04-26,0,560
+6234,Ryazan oblast,2020-04-27,0,595
+6235,Ryazan oblast,2020-04-28,0,636
+6236,Ryazan oblast,2020-04-29,0,673
+6329,Saha republic,2020-04-23,0,125
+6330,Saha republic,2020-04-24,0,134
+6331,Saha republic,2020-04-25,0,144
+6332,Saha republic,2020-04-26,0,155
+6333,Saha republic,2020-04-27,0,165
+6334,Saha republic,2020-04-28,0,171
+6335,Saha republic,2020-04-29,0,176
+6428,Saint Petersburg,2020-04-23,16,2486
+6429,Saint Petersburg,2020-04-24,18,2597
+6430,Saint Petersburg,2020-04-25,19,2704
+6431,Saint Petersburg,2020-04-26,20,2736
+6432,Saint Petersburg,2020-04-27,21,2801
+6433,Saint Petersburg,2020-04-28,22,2855
+6434,Saint Petersburg,2020-04-29,23,2970
+6527,Sakhalin oblast,2020-04-23,0,20
+6528,Sakhalin oblast,2020-04-24,0,21
+6529,Sakhalin oblast,2020-04-25,0,22
+6530,Sakhalin oblast,2020-04-26,0,23
+6531,Sakhalin oblast,2020-04-27,0,24
+6532,Sakhalin oblast,2020-04-28,0,25
+6533,Sakhalin oblast,2020-04-29,0,26
+6626,Samara oblast,2020-04-23,0,126
+6627,Samara oblast,2020-04-24,0,137
+6628,Samara oblast,2020-04-25,0,150
+6629,Samara oblast,2020-04-26,0,162
+6630,Samara oblast,2020-04-27,0,172
+6631,Samara oblast,2020-04-28,0,181
+6632,Samara oblast,2020-04-29,0,190
+6725,Saratov oblast,2020-04-23,0,214
+6726,Saratov oblast,2020-04-24,0,238
+6727,Saratov oblast,2020-04-25,0,263
+6728,Saratov oblast,2020-04-26,0,285
+6729,Saratov oblast,2020-04-27,0,313
+6730,Saratov oblast,2020-04-28,0,335
+6731,Saratov oblast,2020-04-29,0,353
+6824,Sevastopol,2020-04-23,0,20
+6825,Sevastopol,2020-04-24,0,21
+6826,Sevastopol,2020-04-25,0,22
+6827,Sevastopol,2020-04-26,0,23
+6828,Sevastopol,2020-04-27,0,24
+6829,Sevastopol,2020-04-28,0,25
+6830,Sevastopol,2020-04-29,0,26
+6923,Smolensk oblast,2020-04-23,2,268
+6924,Smolensk oblast,2020-04-24,2,286
+6925,Smolensk oblast,2020-04-25,2,302
+6926,Smolensk oblast,2020-04-26,2,320
+6927,Smolensk oblast,2020-04-27,2,335
+6928,Smolensk oblast,2020-04-28,2,350
+6929,Smolensk oblast,2020-04-29,2,363
+7022,Stavropolskiy kray,2020-04-23,5,292
+7023,Stavropolskiy kray,2020-04-24,5,303
+7024,Stavropolskiy kray,2020-04-25,5,316
+7025,Stavropolskiy kray,2020-04-26,5,326
+7026,Stavropolskiy kray,2020-04-27,5,336
+7027,Stavropolskiy kray,2020-04-28,5,346
+7028,Stavropolskiy kray,2020-04-29,5,357
+7121,Sverdlov oblast,2020-04-23,1,259
+7122,Sverdlov oblast,2020-04-24,1,279
+7123,Sverdlov oblast,2020-04-25,1,299
+7124,Sverdlov oblast,2020-04-26,1,318
+7125,Sverdlov oblast,2020-04-27,1,331
+7126,Sverdlov oblast,2020-04-28,1,345
+7127,Sverdlov oblast,2020-04-29,1,354
+7220,Tambov oblast,2020-04-23,0,258
+7221,Tambov oblast,2020-04-24,0,271
+7222,Tambov oblast,2020-04-25,0,284
+7223,Tambov oblast,2020-04-26,0,296
+7224,Tambov oblast,2020-04-27,0,306
+7225,Tambov oblast,2020-04-28,0,317
+7226,Tambov oblast,2020-04-29,0,327
+7319,Tomsk oblast,2020-04-23,0,47
+7320,Tomsk oblast,2020-04-24,0,51
+7321,Tomsk oblast,2020-04-25,0,55
+7322,Tomsk oblast,2020-04-26,0,59
+7323,Tomsk oblast,2020-04-27,0,63
+7324,Tomsk oblast,2020-04-28,0,68
+7325,Tomsk oblast,2020-04-29,0,73
+7418,Tula oblast,2020-04-23,2,486
+7419,Tula oblast,2020-04-24,2,533
+7420,Tula oblast,2020-04-25,2,584
+7421,Tula oblast,2020-04-26,2,641
+7422,Tula oblast,2020-04-27,2,697
+7423,Tula oblast,2020-04-28,2,749
+7424,Tula oblast,2020-04-29,2,788
+7517,Tumen oblast,2020-04-23,2,358
+7518,Tumen oblast,2020-04-24,2,393
+7519,Tumen oblast,2020-04-25,2,437
+7520,Tumen oblast,2020-04-26,2,475
+7521,Tumen oblast,2020-04-27,2,510
+7522,Tumen oblast,2020-04-28,2,547
+7523,Tumen oblast,2020-04-29,2,583
+7616,Tver oblast,2020-04-23,0,387
+7617,Tver oblast,2020-04-24,0,429
+7618,Tver oblast,2020-04-25,0,462
+7619,Tver oblast,2020-04-26,0,498
+7620,Tver oblast,2020-04-27,0,536
+7621,Tver oblast,2020-04-28,0,566
+7622,Tver oblast,2020-04-29,0,600
+7715,Ulianovsk oblast,2020-04-23,2,204
+7716,Ulianovsk oblast,2020-04-24,2,212
+7717,Ulianovsk oblast,2020-04-25,2,219
+7718,Ulianovsk oblast,2020-04-26,2,225
+7719,Ulianovsk oblast,2020-04-27,2,230
+7720,Ulianovsk oblast,2020-04-28,2,234
+7721,Ulianovsk oblast,2020-04-29,2,240
+7814,Vladimir oblast,2020-04-23,5,309
+7815,Vladimir oblast,2020-04-24,5,322
+7816,Vladimir oblast,2020-04-25,5,335
+7817,Vladimir oblast,2020-04-26,5,348
+7818,Vladimir oblast,2020-04-27,5,360
+7819,Vladimir oblast,2020-04-28,5,372
+7820,Vladimir oblast,2020-04-29,5,380
+7913,Volgograd oblast,2020-04-23,2,163
+7914,Volgograd oblast,2020-04-24,2,181
+7915,Volgograd oblast,2020-04-25,2,199
+7916,Volgograd oblast,2020-04-26,2,216
+7917,Volgograd oblast,2020-04-27,2,227
+7918,Volgograd oblast,2020-04-28,2,237
+7919,Volgograd oblast,2020-04-29,2,249
+8012,Vologda oblast,2020-04-23,0,123
+8013,Vologda oblast,2020-04-24,0,133
+8014,Vologda oblast,2020-04-25,0,143
+8015,Vologda oblast,2020-04-26,0,153
+8016,Vologda oblast,2020-04-27,0,162
+8017,Vologda oblast,2020-04-28,0,172
+8018,Vologda oblast,2020-04-29,0,182
+8111,Voronezh oblast,2020-04-23,7,262
+8112,Voronezh oblast,2020-04-24,7,290
+8113,Voronezh oblast,2020-04-25,7,313
+8114,Voronezh oblast,2020-04-26,7,340
+8115,Voronezh oblast,2020-04-27,7,358
+8116,Voronezh oblast,2020-04-28,7,374
+8117,Voronezh oblast,2020-04-29,7,390
+8210,Yamalo-Nenetskiy AO,2020-04-23,1,158
+8211,Yamalo-Nenetskiy AO,2020-04-24,1,167
+8212,Yamalo-Nenetskiy AO,2020-04-25,1,176
+8213,Yamalo-Nenetskiy AO,2020-04-26,1,185
+8214,Yamalo-Nenetskiy AO,2020-04-27,1,194
+8215,Yamalo-Nenetskiy AO,2020-04-28,1,202
+8216,Yamalo-Nenetskiy AO,2020-04-29,1,209
+8309,Yaroslavl oblast,2020-04-23,0,220
+8310,Yaroslavl oblast,2020-04-24,0,246
+8311,Yaroslavl oblast,2020-04-25,0,267
+8312,Yaroslavl oblast,2020-04-26,0,285
+8313,Yaroslavl oblast,2020-04-27,0,307
+8314,Yaroslavl oblast,2020-04-28,0,324
+8315,Yaroslavl oblast,2020-04-29,0,341
+8408,Zabaykalskiy kray,2020-04-23,0,68
+8409,Zabaykalskiy kray,2020-04-24,0,73
+8410,Zabaykalskiy kray,2020-04-25,0,79
+8411,Zabaykalskiy kray,2020-04-26,0,86
+8412,Zabaykalskiy kray,2020-04-27,0,94
+8413,Zabaykalskiy kray,2020-04-28,0,101
+8414,Zabaykalskiy kray,2020-04-29,0,108
